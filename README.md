@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Gurkan Kose</h1>
 <h3 align="center">Unity Game Developer</h3>
 
-- 👨‍💻 All of my projects are available at [https://play.google.com/store/apps/dev?id=5822019197763694398](https://play.google.com/store/apps/dev?id=5822019197763694398)
+- 👨‍💻 All of my projects are available at [Play Store](https://play.google.com/store/apps/dev?id=5822019197763694398)
 
 - 📫 Reach me with **contact@gurkankose.net**
 
