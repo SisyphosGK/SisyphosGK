@@ -2,7 +2,7 @@
   <img src="https://github.com/SisyphosGK/SisyphosGK/blob/master/readme_hi.gif">
 </p>
 
-<h1 align="center">Hi 👋, I'm Gurkan Kose</h1>
+<h1 align="center">I'm Gurkan Kose</h1>
 <h3 align="center">Unity Game Developer</h3>
 
 - 👨‍💻 All of my projects are available at [Play Store](https://play.google.com/store/apps/dev?id=5822019197763694398)
