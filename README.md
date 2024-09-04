@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [Play Store](https://play.google.com/store/apps/dev?id=5822019197763694398)
 
-- 📫 Reach me with **contact@gurkankose.net**
+- 📫 Reach me with **contact@sisyphosgames.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
