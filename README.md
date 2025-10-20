@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/SisyphosGK/SisyphosGK/blob/master/readme_hi.gif">
+  <img src="https://github.com/SisyphosGK/SisyphosGK/blob/master/pacman.svg">
 </p>
 
 <h1 align="center">I'm Gurkan Kose</h1>
